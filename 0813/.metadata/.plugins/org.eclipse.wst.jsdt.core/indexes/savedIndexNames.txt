@@ -1,8 +1,7 @@
-INDEX VERSION 1.4+C:\Users\user\Desktop\21003_25\WEB\0813\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-918527506.index
-1046430444.index
+INDEX VERSION 1.4+C:\Users\user\Documents\GitHub\shoppingmall\0813\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 1661748241.index
-665318689.index
-1673583257.index
-358517175.index
-2052992358.index
+3034471991.index
+4098577867.index
+1195680360.index
+2538024593.index
+1046430444.index
