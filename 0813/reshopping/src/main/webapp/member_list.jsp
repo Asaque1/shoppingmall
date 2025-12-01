@@ -40,7 +40,9 @@ ResultSet rs = pstmt.executeQuery();
 while(rs.next()){
 %>
 <tr class=center>
-<td><%= rs.getInt("custno") %></td>
+<td>
+<a href="update.jsp?click_custno=<%= rs.getInt(1) %>"><%= rs.getInt(1) %></a>
+</td>
 <td><%= rs.getString("custname") %></td>
 <!-- 쿼리의 자리 순서나 자리 이름 상관 없음, 후자가 더 오류 적긴 함 -->
 <td><%= rs.getString("phone") %></td>

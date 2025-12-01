@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+	<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ page import="DB.DBConnect" %>
 <%@ page import="java.sql.*" %>
@@ -24,7 +24,7 @@ ResultSet rs = pstmt.executeQuery();
 
 <section class="section">
 <h2>매출 정리</h2>
-<table class=table_line>
+<table class="table_line">
 <tr>
 <th>custno</th>
 <th>custname</th>

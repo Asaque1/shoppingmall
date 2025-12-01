@@ -51,16 +51,19 @@ a { color: #ffffff; text-decoration: none; }
 	     font-size : 11px;
         }
         
-.table_line{
-	margin:0 auto;
-	overflow-y:auto;
-	border:1px solid gray;
-	border-collapse:collapse;
+.table_line {
+	margin : 0 auto;  /* 페이지 가운데 위치 */
+	overflow-y  : auto; /* 세로 영역이 넘치는 경우 자동 조절(스크롤 생성)*/
+	border : 1px solid gray;	
 }
 
-.table_line th, .table_line td{
-	border:1px solid gray;
-}
-.table_line .center td{
+.table_line th, .table_line td {
+	border : 1px solid gray;
+	                                         padding: 5px;	
+} 
+
+.table_line .center td {
 	text-align:center;
 }
+
+  
