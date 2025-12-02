@@ -16,7 +16,7 @@
 <li><a href="resv_hosp.jsp">백신예약현황</a></li>
 <li><a href="index.jsp">홈으로</a></li>
 <li><a href="resv_list.jsp">백신예약전체조회</a></li>
-<li><a href="#">회원정보조회</a></li>
+<li><a href="check_jumin.jsp">회원정보조회</a></li>
 </ul>
 </nav>
 </body>
